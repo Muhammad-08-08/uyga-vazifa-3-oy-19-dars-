@@ -1,0 +1,19 @@
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 35px 250px;
+    background-color: white;
+    h3{
+        font-size: 15px;
+        color: #C4C4C4;
+    }
+    .footer-img{
+        display: flex;
+        align-items: center;
+        gap: 24px;
+        img{
+            margin-right: 10px;
+        }
+    }
+}
